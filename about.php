@@ -22,10 +22,19 @@ online world.</p>
 
 <p>There are many people who have been involved in this project. For a list of
  people with developer access, check out the project
-<a href="http://sourceforge.net/project/memberlist.php?group_id=106790">
-member list</a>. On the wiki the
-<a href="http://wiki.themanaworld.org/index.php/Developers">Developers</a> page
+<a href="https://github.com/themanaworld?tab=members">
+<u>member list</u></a>. On the wiki the
+<a href="http://wiki.themanaworld.org/index.php/Developers"><u>Developers</u></a> page
 keeps track of the current contributors as well as retired contributors.</p>
+
+<h4>Main Developers</h4>
+<p>If you want to get involved and do not know who to contact just ask one of the below. Send one of them a PM on the <a href="http://forums.themanaworld.org" target="_blank"><u>Forums</u></a> or contact them on <a href="irc://irc.themanaworld.org/themanaworld"><u>IRC</u></a>.
+</p>
+<p>
+<b>Content Development:</b> <a href="http://forums.themanaworld.org/memberlist.php?mode=viewprofile&u=6959" target="_blank">Jenalya</a></br>
+<b>Server Development:</b> <a href="http://forums.themanaworld.org/memberlist.php?mode=viewprofile&u=8274" target="_blank">o11c</a></br>
+<b>Wiki Admin:</b> <a href="http://forums.themanaworld.org/memberlist.php?mode=viewprofile&u=6631" target="_blank">Nard</a></br>
+</p>
 
 <?php
   placeFooter();

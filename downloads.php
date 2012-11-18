@@ -12,6 +12,9 @@
 <p>The official client for playing The Mana World is the Mana client and is
 	developed as part of the <a href="http://manasource.org/">Mana project</a>.
 	The latest version of the client can be downloaded from there.</p>
+<h3>Alternate Client</h3>
+<p>Since October 2012 we support another client as well. This one is based on mana client but has some
+	additional features built in. It's called Manaplus. You can download it at <a href="http://manaplus.evolonline.org/" target="_blank">Manaplus at Evolonline</a>.</p>
 
 <h3>The Mana World packages</h3>
 
